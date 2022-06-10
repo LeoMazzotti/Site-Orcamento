@@ -1,0 +1,25 @@
+img{
+    float: left;
+    height: 300px;
+    width: 300px;
+    border-radius: 50px;
+}
+
+
+h1 {
+    border-bottom-style: inset;
+    margin-left: 350px;
+}
+
+p{
+    margin-left: 350px;
+}
+
+pre {
+    font-size: 1.em;
+}
+*{
+    background-color: lightgray;
+    font-family: 'Varela Round', sans-serif;
+    
+}
